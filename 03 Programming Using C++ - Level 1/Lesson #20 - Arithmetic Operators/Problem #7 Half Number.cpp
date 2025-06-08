@@ -6,6 +6,6 @@ int main()
     cout << "Please enter a number: ";
     cin >> FirstNumber;
     int HalfNumber = FirstNumber / 2;
-    cout << "Half of the number is: " << HalfNumber << endl;
+    cout << "Half of the number is: " << HalfNumber << endl; 
     return 0;
 }
